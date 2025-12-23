@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# I’m Carlos
-
 I’m a Computer Systems Engineering student and an aspiring **back-end software developer**.  
 Focused on building strong fundamentals and improving every day.
 
