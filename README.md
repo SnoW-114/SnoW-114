@@ -1,22 +1,23 @@
+
+<img src="images/wave.png" width="35" />
+
 ## Hi there 👋
 
-I’m a Computer Systems Engineering student and an aspiring **back-end software developer**.  
-Focused on building strong fundamentals and improving every day.
+I'm **Carlos**, a Computer Systems Engineering student and aspiring **back-end software developer** based in Mexico.
 
-##  What am I currently working on?
-- Learning **Python** from scratch  
-- Programming fundamentals and logic  
-- Databases and SQL  
-- Networking basics
+I enjoy learning how things work from the ground up and building solid foundations in software development.
 
-## Tools I use
-- Python  
-- SQL    
-- VS Code  
-- Cisco Packet Tracer
+Right now, I'm focused on learning **Python**, programming fundamentals, databases, and networking.  
+I like taking things step by step and actually understanding what I'm doing.
 
-## Fun facts
-- JoJo is my favorite anime 
-- I dont like heat
-- I have 4 dogs
-- Hobbies: Gym, Read, Building things
+My main tools are **Python, SQL, Git, GitHub, VS Code**, and **Cisco Packet Tracer**.
+
+I’m still early in my journey, but I’m consistently learning and improving every day.
+
+---
+
+### Fun facts:
+- I enjoy calm places like lakes, rivers, and mountains  
+- I like anime and training (gym / MMA)  
+- I’m introverted, but curious and disciplined  
+- Long-term goal: work as a software developer at companies like Google or Apple
