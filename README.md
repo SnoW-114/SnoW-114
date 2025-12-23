@@ -16,7 +16,7 @@ Focused on building strong fundamentals and improving every day.
 - Cisco Packet Tracer
 
 ## Fun facts
--JoJo is my favorite anime 
--I dont like heat
--I have 4 dogs
--Hobbies: Gym, Read, Building things
+- JoJo is my favorite anime 
+- I dont like heat
+- I have 4 dogs
+- Hobbies: Gym, Read, Building things
