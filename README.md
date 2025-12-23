@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**SnoW-114/SnoW-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I’m Carlos
 
-Here are some ideas to get you started:
+I’m a Computer Systems Engineering student and an aspiring **back-end software developer**.  
+Focused on building strong fundamentals and improving every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What am I currently working on?
+- Learning **Python** from scratch  
+- Programming fundamentals and logic  
+- Databases and SQL  
+- Networking basics
+
+## 🛠️ Tools I use
+- Python  
+- SQL    
+- VS Code  
+- Cisco Packet Tracer
