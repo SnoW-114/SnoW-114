@@ -16,5 +16,5 @@ I’m still early in my journey, but I’m consistently learning and improving e
 ### Fun facts:
 - I enjoy calm places like lakes, rivers, and mountains    
 - I enjoy extreme activities and mountain climbing
-- I like anime and training (gym / MMA)
+- I like anime and training (Gym / MMA)
 - Long-term goal: work as a software developer at companies like Google or Apple
