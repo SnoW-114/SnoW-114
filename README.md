@@ -7,7 +7,7 @@ I enjoy learning how things work from the ground up and building solid foundatio
 Right now, I'm focused on learning **Python**, programming fundamentals, databases, and networking.  
 I like taking things step by step and actually understanding what I'm doing.
 
-My main tools are **Python, SQL, VS Code**, and **Cisco Packet Tracer**.
+My main tools are **Python, SQL**.
 
 I’m still early in my journey, but I’m consistently learning and improving every day.
 
